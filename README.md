@@ -1,4 +1,4 @@
-# 45gfg9
+# HorizonWind2004
 
 :wave: Hi! I'm an undergrad Generative Model researcher.
 
